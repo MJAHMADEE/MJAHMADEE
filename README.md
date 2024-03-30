@@ -44,7 +44,7 @@ Mohammad Javad Ahmadi was born in 1996 in Sari near the Caspian Sea in northern 
                                                                                                                                                                                            
 
 
-# 📊 MJAHMADEE's GitHub Stats:
+# 📊 GitHub Stats:
 
 | Contribution Streak | Language Proficiency | Overall Stats |
 |:-------------------:|:--------------------:|:-------------:|
