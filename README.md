@@ -49,6 +49,8 @@ Mohammad Javad Ahmadi was born in 1996 in Sari near the Caspian Sea in northern 
 | Contribution Streak | Language Proficiency | Overall Stats |
 |:-------------------:|:--------------------:|:-------------:|
 | ![MJAHMADEE's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mjahmadee&theme=radical) | ![MJAHMADEE's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MJAHMADEE&theme=radical&layout=compact) | ![MJAHMADEE's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MJAHMADEE&show_icons=true&theme=radical&include_all_commits=true) |
+<img align="center" src="https://github-profile-trophy.vercel.app/?username=MJAHMADEE&column=10&theme=onedark">
+
 
 > **Note:** The statistics are dynamic and represent the user's activity and proficiency on GitHub.
 
