@@ -46,16 +46,28 @@ Mohammad Javad Ahmadi was born in 1996 in Sari near the Caspian Sea in northern 
 
 # 📊 GitHub Stats:
 
-| Contribution Streak | Language Proficiency | Overall Stats |
-|:-------------------:|:--------------------:|:-------------:|
-| ![MJAHMADEE's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mjahmadee&theme=radical) | ![MJAHMADEE's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MJAHMADEE&theme=radical&layout=compact) | ![MJAHMADEE's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MJAHMADEE&show_icons=true&theme=radical&include_all_commits=true) |
-<img align="center" src="https://github-profile-trophy.vercel.app/?username=MJAHMADEE&column=10&theme=onedark">
+<img src="https://github-profile-trophy.vercel.app/?username=MJAHMADEE&column=10&theme=onedark" alt="MJAHMADEE's Trophies" width="1500" height="200">
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MJAHMADEE&theme=nord_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MJAHMADEE&theme=nord_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MJAHMADEE&theme=nord_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MJAHMADEE&theme=nord_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MJAHMADEE&theme=nord_dark)
+<table align="center">
+  <tr>
+    <td colspan="2" align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MJAHMADEE&theme=nord_dark" alt="MJAHMADEE's Profile Details" width="800" height="200"></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MJAHMADEE&theme=nord_dark" alt="MJAHMADEE's Repos per Language" width="400" height="200"></td>
+    <td align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MJAHMADEE&theme=nord_dark" alt="MJAHMADEE's Most Commit Language" width="400" height="200"></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MJAHMADEE&theme=nord_dark" alt="MJAHMADEE's Stats" width="400" height="200"></td>
+    <td align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MJAHMADEE&theme=nord_dark" alt="MJAHMADEE's Productive Time" width="400" height="200"></td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=mjahmadee&theme=radical" alt="MJAHMADEE's GitHub Streak" width="800" height="200"><br>
+    </td>
+  </tr>
+</table>
+
+
 
 > **Note:** The statistics are dynamic and represent the user's activity and proficiency on GitHub.
 
