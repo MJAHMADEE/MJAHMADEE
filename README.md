@@ -50,22 +50,23 @@ Mohammad Javad Ahmadi was born in 1996 in Sari near the Caspian Sea in northern 
 
 <table align="center">
   <tr>
-    <td colspan="2" align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MJAHMADEE&theme=nord_dark" alt="MJAHMADEE's Profile Details" width="800" height="200"></td>
+    <td colspan="2" align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MJAHMADEE&theme=nord_dark" alt="MJAHMADEE's Profile Details" width="600" height="150"></td>
   </tr>
   <tr>
-    <td align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MJAHMADEE&theme=nord_dark" alt="MJAHMADEE's Repos per Language" width="400" height="200"></td>
-    <td align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MJAHMADEE&theme=nord_dark" alt="MJAHMADEE's Most Commit Language" width="400" height="200"></td>
+    <td align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MJAHMADEE&theme=nord_dark" alt="MJAHMADEE's Repos per Language" width="300" height="150"></td>
+    <td align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MJAHMADEE&theme=nord_dark" alt="MJAHMADEE's Most Commit Language" width="300" height="150"></td>
   </tr>
   <tr>
-    <td align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MJAHMADEE&theme=nord_dark" alt="MJAHMADEE's Stats" width="400" height="200"></td>
-    <td align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MJAHMADEE&theme=nord_dark" alt="MJAHMADEE's Productive Time" width="400" height="200"></td>
+    <td align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MJAHMADEE&theme=nord_dark" alt="MJAHMADEE's Stats" width="300" height="150"></td>
+    <td align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MJAHMADEE&theme=nord_dark" alt="MJAHMADEE's Productive Time" width="300" height="150"></td>
   </tr>
   <tr>
     <td colspan="2" align="center">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=mjahmadee&theme=radical" alt="MJAHMADEE's GitHub Streak" width="800" height="200"><br>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=mjahmadee&theme=radical" alt="MJAHMADEE's GitHub Streak" width="600" height="150"><br>
     </td>
   </tr>
 </table>
+
 
 
 
