@@ -46,11 +46,9 @@ Mohammad Javad Ahmadi was born in 1996 in Sari near the Caspian Sea in northern 
 
 # 📊 GitHub Stats:
 
-<img src="https://github-profile-trophy.vercel.app/?username=MJAHMADEE&column=10&theme=onedark" alt="MJAHMADEE's Trophies" width="1500" height="200">
-
 <table align="center">
   <tr>
-    <td colspan="2" align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MJAHMADEE&theme=nord_dark" alt="MJAHMADEE's Profile Details" width="600" height="150"></td>
+    <td colspan="2" align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MJAHMADEE&theme=nord_dark" alt="MJAHMADEE's Profile Details" width="700" height="150"></td>
   </tr>
   <tr>
     <td align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MJAHMADEE&theme=nord_dark" alt="MJAHMADEE's Repos per Language" width="300" height="150"></td>
@@ -68,7 +66,7 @@ Mohammad Javad Ahmadi was born in 1996 in Sari near the Caspian Sea in northern 
 </table>
 
 
-
+<img src="https://github-profile-trophy.vercel.app/?username=MJAHMADEE&column=10&theme=onedark" alt="MJAHMADEE's Trophies" width="1500" height="200">
 
 > **Note:** The statistics are dynamic and represent the user's activity and proficiency on GitHub.
 
