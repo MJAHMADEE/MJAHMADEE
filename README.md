@@ -42,8 +42,6 @@ Mohammad Javad Ahmadi was born in 1996 in Sari near the Caspian Sea in northern 
 | **Machine Learning / Deep Learning frameworks** | [![Jupyter Notebook Badge](https://img.shields.io/badge/Jupyter%20Notebook-F37626?style=flat-square&logo=Jupyter&logoColor=white)](https://jupyter.org/) [![Scikit-learn Badge](https://img.shields.io/badge/Scikit--Learn-e26d00?style=flat-square&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/) [![PyTorch Badge](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)](https://pytorch.org/) [![TensorFlow Badge](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)](https://www.tensorflow.org/) [![Keras Badge](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)](https://keras.io/) [![NumPy Badge](https://img.shields.io/badge/NumPy-e26d00?style=flat-square&logo=numpy&logoColor=white)](https://numpy.org/) [![pandas Badge](https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white)](https://pandas.pydata.org/) [![Seaborn Badge](https://img.shields.io/badge/Seaborn-76B900?style=flat-square&logo=seaborn&logoColor=white)](https://seaborn.pydata.org/) |
 
                                                                                                                                                                                            
-
-
 # 📊 GitHub Stats:
 
 <table align="center">
@@ -65,11 +63,6 @@ Mohammad Javad Ahmadi was born in 1996 in Sari near the Caspian Sea in northern 
   </tr>
 </table>
 
-
 <img src="https://github-profile-trophy.vercel.app/?username=MJAHMADEE&column=10&theme=onedark" alt="MJAHMADEE's Trophies" width="1500" height="200">
 
 > **Note:** The statistics are dynamic and represent the user's activity and proficiency on GitHub.
-
-
-
-
