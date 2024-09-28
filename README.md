@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 # 💫 About Me:
 <p style="text-align: justify;">
-Mohammad Javad Ahmadi was born in 1996 in Sari near the Caspian Sea in northern Iran. He graduated from NODET in 2015 with a Diploma GPA of 4/4 (20/20). He received his B.Sc. in Electrical & Control Engineering from Amirkabir University of Technology (Tehran Polytechnic) in 2019 with a GPA of 3.9/4. Since 2019, he has been a part of ARASⒸ under the supervision of Prof. Taghirad and completed his M.Sc. with a GPA of 4/4. He is currently pursuing his Ph.D. in this group with a GPA of 4/4 (20/20). Robotics, Artificial Intelligence, and Computer Vision are his main favorite research topics. As a result of ARAS and Farabi Hospital's cooperation, he directs ARAS-Farabi AI and VR in Medical Robotics group.
+Mohammad Javad Ahmadi was born in 1996 in Sari near the Caspian Sea in northern Iran. He graduated from NODET in 2015 with a Diploma GPA of 4/4 (20/20). He received his B.Sc. in Electrical & Control Engineering from Amirkabir University of Technology (Tehran Polytechnic) in 2019 with a GPA of 3.7/4. Since 2019, he has been a part of ARASⒸ under the supervision of Prof. Taghirad and completed his M.Sc. with a GPA of 4/4. He is currently pursuing his Ph.D. in this group with a GPA of 4/4 (20/20). Robotics, Artificial Intelligence, and Computer Vision are his main favorite research topics. As a result of ARAS and Farabi Hospital's cooperation, he directs ARAS-Farabi AI and VR in Medical Robotics group.
 </p>
 <a href="https://drive.google.com/file/d/12mfH_QxeocmGwL8oAGfFRh2LZSZSlrwE/view?usp=sharing" target="_blank">
   <img src="https://img.shields.io/badge/Resume-View%20CV-blue?style=for-the-badge&logo=google-drive" alt="Resume" />
