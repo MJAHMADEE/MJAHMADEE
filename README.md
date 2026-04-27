@@ -1,68 +1,191 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=MJAHMADEE&label=Profile%20views&color=0e75b6&style=flat" alt="MJAHMADEE" /> </p>
+<!-- =========================================================
+   GitHub Profile README — Mohammad Javad Ahmadi (@MJAHMADEE)
+   ========================================================= -->
 
-
-### Hi there 👋
-
-<!--
-**MJAHMADEE/MJAHMADEE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-# 💫 About Me:
-<p style="text-align: justify;">
-Mohammad Javad Ahmadi was born in 1996 in Sari near the Caspian Sea in northern Iran. He graduated from NODET in 2015 with a Diploma GPA of 4/4 (20/20). He received his B.Sc. in Electrical & Control Engineering from Amirkabir University of Technology (Tehran Polytechnic) in 2019 with a GPA of 3.7/4. Since 2019, he has been part of ARASⒸ under the supervision of Prof. Hamid D. Taghirad and completed his M.Sc. with a GPA of 4/4. He is currently pursuing his Ph.D. in this group with a GPA of 4/4 (20/20). In parallel with his academic work, he serves as CTO at MediversAI and SmarTeeth, focusing on AI applications in medical imaging and videos, and also leads the ARAS AI, VR, and Software Group. Robotics, Artificial Intelligence, and Computer Vision are his principal research interests.
-</p>
-<a href="https://drive.google.com/file/d/12mfH_QxeocmGwL8oAGfFRh2LZSZSlrwE/view?usp=sharing" target="_blank">
-  <img src="https://img.shields.io/badge/Resume-View%20CV-blue?style=for-the-badge&logo=google-drive" alt="Resume" />
+<!-- ===== HERO BANNER ===== -->
+<a href="https://github.com/MJAHMADEE">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E3A8A,50:2E9EF7,100:06B6D4&height=220&section=header&text=Mohammad%20Javad%20Ahmadi&fontSize=46&fontColor=ffffff&fontAlignY=38&desc=CTO%20%E2%80%A2%20AI%20Researcher%20%E2%80%A2%20Ph.D.%20Candidate&descSize=18&descAlignY=60&animation=fadeIn" alt="header" />
 </a>
-<p><a href="http://mjahmadee.site123.me/" target="_blank"><br><img src="https://s24.picofile.com/file/8454571884/website.png" alt="" width="25" height="25"></a><a href="mailto:mjahmadee@gmail.com" target="_blank"><img src="https://s24.picofile.com/file/8454571876/email.png" alt="" width="25" height="25"></a><a href="https://www.linkedin.com/in/mjahmadi/" target="_blank"><img src="https://s25.picofile.com/file/8454571918/LinkedIn.png" alt="" width="25" height="25"></a><a href="https://www.researchgate.net/profile/Mohammad_Ahmadi67" target="_blank"><img src="https://s24.picofile.com/file/8454571968/RG.png" alt="" width="25" height="25"></a><a href="https://scholar.google.com/citations?user=wTnN9IEAAAAJ&hl=en" target="_blank"><img src="https://s25.picofile.com/file/8454571984/GScholar.png" alt="" width="25" height="25"></a><a href="https://orcid.org/0000-0002-2177-9936" rel="noopener noreferrer" target="_blank"><img src="https://s25.picofile.com/file/8454572050/orcid.png" alt="" width="25" height="25"></a><a href="http://www.webofscience.com/wos/author/record/GXN-0273-2022" target="_blank"><img src="https://s25.picofile.com/file/8454572084/publons.png" alt="" width="25" height="25"></a><a href="https://github.com/MJAHMADEE" rel="noopener noreferrer" target="_blank"><img src="https://s24.picofile.com/file/8454572134/Github.png" alt="" width="25" height="25"></a><a href="https://t.me/mjahmadee" target="_blank"><img src="https://s24.picofile.com/file/8454573000/Telegram.png" width="25" height="25"></a><a href="https://github.com/MJAHMADEE" rel="noopener noreferrer" target="_blank"></a><a href="https://x.com/MJXAhmadi" target="_blank"><img src="https://s29.picofile.com/file/8466445000/X.png" alt="" width="25" height="25"></a><a href="https://www.facebook.com/mjahmadi.fb" target="_blank"><img src="https://s24.picofile.com/file/8454572168/fb.png" alt="" width="25" height="25"></a><a href="https://www.instagram.com/mjahmadi.ig/" target="_blank"><img src="https://s25.picofile.com/file/8454572876/insta.png" alt="" width="25" height="25"></a><a href="https://open.spotify.com/user/z14s6ylxt1nql0us1uny613sd?si=d42deb1a572e4c24" target="_blank"><img src="https://s25.picofile.com/file/8454572868/Music.png" alt="" width="25" height="25"></a><a href="https://soundcloud.com/mjahmadi" target="_blank"><img src="https://s25.picofile.com/file/8454572976/SoundCloud.png" width="25" height="25"></a></p>
-<p><br></p>
 
+<!-- ===== TYPING TAGLINE ===== -->
+<p align="center">
+  <a href="https://github.com/MJAHMADEE">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=2E9EF7&center=true&vCenter=true&width=820&lines=Bridging+cutting-edge+AI+research+%26+production+software;CTO+%40+MediversAI+%7C+Head+of+ARAS+AI+Group;Computer+Vision+%E2%80%A2+Generative+AI+%E2%80%A2+Agentic+Systems;Empowering+MedTech+%26+FinTech+with+scalable+AI" alt="typing" />
+  </a>
+</p>
 
-# 💻 Tech Stack:
+<!-- ===== SOCIAL / METRICS BADGES ===== -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=MJAHMADEE&label=Profile%20views&color=2E9EF7&style=for-the-badge" alt="profile-views" />
+  <a href="https://github.com/MJAHMADEE?tab=followers">
+    <img src="https://img.shields.io/github/followers/MJAHMADEE?label=Followers&style=for-the-badge&color=1E3A8A&logo=github" alt="followers" />
+  </a>
+  <a href="https://github.com/MJAHMADEE">
+    <img src="https://img.shields.io/github/stars/MJAHMADEE?label=Total%20Stars&style=for-the-badge&color=06B6D4&logo=github" alt="stars" />
+  </a>
+  <img src="https://img.shields.io/badge/Open%20to-Collaborations-success?style=for-the-badge&logo=handshake&logoColor=white" alt="open-to-collab" />
+</p>
 
-<!-- my-skils -->
+<!-- ===== QUICK LINKS ===== -->
+<p align="center">
+  <a href="https://www.linkedin.com/in/mjahmadi/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://scholar.google.com/citations?user=wTnN9IEAAAAJ&hl=en">
+    <img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" alt="Scholar" />
+  </a>
+  <a href="https://github.com/MJAHMADEE">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://drive.google.com/file/d/12mfH_QxeocmGwL8oAGfFRh2LZSZSlrwE/view?usp=sharing">
+    <img src="https://img.shields.io/badge/📄%20Resume-View%20PDF-E63946?style=for-the-badge&logoColor=white" alt="Resume" />
+  </a>
+</p>
 
-| Property                                        | Data                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
-|-------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Language / IDE**                              | [![Python Badge](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)](https://www.python.org/) [![MATLAB Badge](https://img.shields.io/badge/MATLAB-0076A8?style=flat-square&logo=Mathworks&logoColor=white)](https://www.mathworks.com/products/matlab.html) [![C++ Badge](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)](https://isocpp.org/) [![C Badge](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language)) [![Pycharm Badge](https://img.shields.io/badge/Pycharm-3776AB?style=flat-square&logo=Pycharm&logoColor=white)](https://www.jetbrains.com/pycharm/) [![Anaconda Badge](https://img.shields.io/badge/Anaconda-44A833?style=flat-square&logo=Anaconda&logoColor=white)](https://www.anaconda.com/) [![Visual Studio Badge](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=flat-square&logo=visual-studio&logoColor=white)](https://visualstudio.microsoft.com/) |
-| **Domain Knowledge**                           | [![Deep Learning Badge](https://img.shields.io/badge/Deep%20Learning-01D277?style=flat-square&logo=TensorFlow&logoColor=white)](https://github.com/MJAHMADEE/MJAHMADEE) [![Machine Learning Badge](https://img.shields.io/badge/Machine%20Learning-01D277?style=flat-square&logo=SciKit-Learn&logoColor=white)](https://github.com/MJAHMADEE/MJAHMADEE) [![Computer Vision Badge](https://img.shields.io/badge/Computer%20Vision-3C5B9B?style=flat-square&logo=OpenCV&logoColor=white)](https://github.com/search?q=user%3AMJAHMADEE&type=Repositories) [![NLP Badge](https://img.shields.io/badge/NLP-3C5B9B?style=flat-square&logo=Natural-Language-Processing&logoColor=white)](https://github.com/search?q=user%3AMJAHMADEE&type=Repositories) [![Computer Science Development Badge](https://img.shields.io/badge/Computer%20Science-FAB040?style=flat-square&logo=GitHub&logoColor=white)](https://github.com/search?q=user%3AMJAHMADEE&type=Repositories) [![Control Engineering Badge](https://img.shields.io/badge/Control%20Engineering-FF5733?style=flat-square&logo=Automation&logoColor=white)](https://github.com/search?q=user%3AMJAHMADEE&type=Repositories) [![Robotics Badge](https://img.shields.io/badge/Robotics-FF5733?style=flat-square&logo=Robotics&logoColor=white)](https://github.com/search?q=user%3AMJAHMADEE&type=Repositories) [![Electrical Engineering Development Badge](https://img.shields.io/badge/Electrical%20Engineering-4C8CBF?style=flat-square&logo=Electrical&logoColor=white)](https://github.com/search?q=user%3AMJAHMADEE&type=Repositories) [![Software Development Badge](https://img.shields.io/badge/Software%20Development-FF6600?style=flat-square&logo=Software&logoColor=white)](https://github.com/search?q=user%3AMJAHMADEE&type=Repositories) |
-| **CI / CD**                                     | [![Markdown Badge](https://img.shields.io/badge/Markdown-2088FF?style=flat-square&logo=Markdown&logoColor=white)](https://github.com/MJAHMADEE/MJAHMADEE) [![Github Badge](https://img.shields.io/badge/Github-2088FF?style=flat-square&logo=Github&logoColor=white)](https://github.com/MJAHMADEE/MJAHMADEE) [![Github Actions Badge](https://img.shields.io/badge/Git-2088FF?style=flat-square&logo=Git&logoColor=white)](https://github.com/MJAHMADEE/MJAHMADEE)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
-| **Tools & Platform**                            | [![Google Colab Badge](https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat-square&logo=Google-Colab&logoColor=white)](https://colab.research.google.com/) [![OpenCV Badge](https://img.shields.io/badge/OpenCV-27338e?style=flat-square&logo=OpenCV&logoColor=white)](https://opencv.org/) [![QT Badge](https://img.shields.io/badge/QT-41CD52?style=flat-square&logo=Qt&logoColor=white)](https://www.qt.io/) [![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)](https://html.spec.whatwg.org/) [![CSS3 Badge](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)](https://www.w3.org/Style/CSS/Overview.en.html) [![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)](https://www.ecma-international.org/publications-and-standards/standards/ecma-262/) [![LaTeX Badge](https://img.shields.io/badge/latex-%23008080?style=flat-square&logo=latex&logoColor=white)](https://www.latex-project.org/) |
-| **Machine Learning / Deep Learning frameworks** | [![Jupyter Notebook Badge](https://img.shields.io/badge/Jupyter%20Notebook-F37626?style=flat-square&logo=Jupyter&logoColor=white)](https://jupyter.org/) [![Scikit-learn Badge](https://img.shields.io/badge/Scikit--Learn-e26d00?style=flat-square&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/) [![PyTorch Badge](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)](https://pytorch.org/) [![TensorFlow Badge](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)](https://www.tensorflow.org/) [![Keras Badge](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)](https://keras.io/) [![NumPy Badge](https://img.shields.io/badge/NumPy-e26d00?style=flat-square&logo=numpy&logoColor=white)](https://numpy.org/) [![pandas Badge](https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white)](https://pandas.pydata.org/) [![Seaborn Badge](https://img.shields.io/badge/Seaborn-76B900?style=flat-square&logo=seaborn&logoColor=white)](https://seaborn.pydata.org/) |
+---
 
-                                                                                                                                                                                           
-# 📊 GitHub Stats:
+## 🧑‍💻 About Me
 
-<table align="center">
-  <tr>
-    <td colspan="2" align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MJAHMADEE&theme=nord_dark" alt="MJAHMADEE's Profile Details" width="700" height="150"></td>
-  </tr>
-  <tr>
-    <td align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MJAHMADEE&theme=nord_dark" alt="MJAHMADEE's Repos per Language" width="300" height="150"></td>
-    <td align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MJAHMADEE&theme=nord_dark" alt="MJAHMADEE's Most Commit Language" width="300" height="150"></td>
-  </tr>
-  <tr>
-    <td align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MJAHMADEE&theme=nord_dark" alt="MJAHMADEE's Stats" width="300" height="150"></td>
-    <td align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MJAHMADEE&theme=nord_dark" alt="MJAHMADEE's Productive Time" width="300" height="150"></td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=mjahmadee&theme=radical" alt="MJAHMADEE's GitHub Streak" width="600" height="150"><br>
-    </td>
-  </tr>
-</table>
+```python
+class MohammadJavadAhmadi:
+    def __init__(self):
+        self.name        = "Mohammad Javad Ahmadi"
+        self.role        = "CTO @ MediversAI · Head of ARAS AI Group"
+        self.education   = "Ph.D. Candidate, Electrical & Control Engineering"
+        self.experience  = "8+ years architecting AI pipelines"
+        self.domains     = ["MedTech", "FinTech", "SaaS"]
+        self.focus       = ["Computer Vision", "Generative AI", "Agentic Systems"]
+        self.recognition = "Innovation Leader — Alberta Machine Intelligence Institute (Amii)"
 
-<img src="https://github-profile-trophy.vercel.app/?username=MJAHMADEE&column=10&theme=onedark" alt="MJAHMADEE's Trophies" width="1500" height="200">
+    def current_mission(self):
+        return "Turning state-of-the-art research into reliable, production-grade AI."
+```
 
-> **Note:** The statistics are dynamic and represent the user's activity and proficiency on GitHub.
+> **In one line:** I lead R&D teams that ship real-time medical-AI and intelligent-agent systems — from a paper draft all the way to GPU clusters in production.
+
+---
+
+## 🚀 What I'm Working On
+
+| 🎯 Focus Area | 🧠 Description |
+|---|---|
+| 🩺 **Surgical Video Understanding** | Real-time 3D-CNN & VLM pipelines for AI-powered surgical assessment |
+| 🧬 **Medical Imaging Analysis** | Multi-modal models for diagnosis, segmentation, and clinical decision support |
+| 🤖 **Autonomous Agentic Systems** | LLM-driven agents that plan, reason, and act across tools and APIs |
+| 💼 **Scalable SaaS for MedTech & FinTech** | End-to-end MLOps: data → training → deployment → monitoring |
+| 🎓 **Mentorship & Leadership** | Directing a team of **60+** developers and researchers across multiple R&D tracks |
+
+---
+
+## 🛠️ Tech Stack
+
+#### 🧠 AI / ML / Deep Learning
+<p>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/ONNX-005CED?style=for-the-badge&logo=onnx&logoColor=white" />
+  <img src="https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />
+</p>
+
+#### 💻 Languages
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" />
+</p>
+
+#### ⚙️ MLOps & Cloud
+<p>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Weights%20%26%20Biases-FFBE00?style=for-the-badge&logo=weightsandbiases&logoColor=black" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
+</p>
+
+#### 🗄️ Databases & Data
+<p>
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
+  <img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" />
+</p>
+
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <a href="https://github.com/MJAHMADEE">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MJAHMADEE&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="stats" />
+  </a>
+  <a href="https://github.com/MJAHMADEE">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MJAHMADEE&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="top-langs" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MJAHMADEE&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MJAHMADEE&theme=tokyo-night&hide_border=true&area=true" alt="activity-graph" />
+</p>
+
+---
+
+## 🏆 Trophy Cabinet
+
+<p align="center">
+  <a href="https://github.com/MJAHMADEE">
+    <img src="https://github-profile-trophy.vercel.app/?username=MJAHMADEE&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10" alt="trophies" />
+  </a>
+</p>
+
+---
+
+## 🎖️ Selected Recognition
+
+- 🏅 **Innovation Leader** — Alberta Machine Intelligence Institute (**Amii**)
+- 💰 **Prestigious research grants** for AI-powered surgical assessment systems
+- 🎓 **Ph.D. Candidate** — Electrical & Control Engineering
+- 👥 **Mentor to 60+** developers and researchers across applied AI tracks
+
+---
+
+## 🤝 Let's Build Something Together
+
+I'm always open to collaborating on **medical AI**, **multi-modal foundation models**, **agentic systems**, and **research-to-product** journeys. If your problem touches any of those — or if you just want to chat about AI in industry — say hi:
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/mjahmadi/">
+    <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
+  </a>
+  <a href="https://scholar.google.com/citations?user=wTnN9IEAAAAJ&hl=en">
+    <img src="https://img.shields.io/badge/Read%20My%20Papers-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" alt="scholar" />
+  </a>
+  <a href="https://drive.google.com/file/d/12mfH_QxeocmGwL8oAGfFRh2LZSZSlrwE/view?usp=sharing">
+    <img src="https://img.shields.io/badge/📄%20Download%20Résumé-E63946?style=for-the-badge" alt="resume" />
+  </a>
+</p>
+
+---
+
+## 💭 Quote of the Day
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="quote" />
+</p>
+
+<!-- ===== FOOTER WAVE ===== -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,50:2E9EF7,100:1E3A8A&height=110&section=footer&text=Thanks%20for%20visiting!&fontColor=ffffff&fontSize=20&fontAlignY=72&animation=twinkling" alt="footer" />
